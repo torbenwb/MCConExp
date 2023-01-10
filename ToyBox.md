@@ -17,3 +17,7 @@ To select an object left click on it in the Scene View. Once you've selected an 
 ## Adding New Game Objects 
 
 To add new objects to the scene you can select the object you want to add from the **Assets** folder and drag it into the scene view.
+
+## Changing Materials
+
+To change the material of an object, simply drag the material from the project view onto that object.
