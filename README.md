@@ -26,3 +26,5 @@ Now that our pigeon can move, he needs some way to get over this trash can in fr
 ### Step: Collecting the Coin
 
 Now that our pigeon can move and jump, the obvious next step is to be able to collect that shiny floating coin. Right now if our pigeon runs across the coin nothing happens. Instead we'd like the coin to burst into a satisfying collection of smaller coins to demonstrate that our player has done something cool and fun. So we're going to add the `Collectible` script to the Coin GameObject and then set the `CollectFX` property to the CollectFX prefab in our Park Scene Assets folder. If we've done everything correctly we should be able to collect that coin and see a fun little particle system too.
+
+![](https://github.com/torbenwb/MCConExp/blob/main/Pigeon_CollectCoin.gif)
