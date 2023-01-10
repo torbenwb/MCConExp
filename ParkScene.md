@@ -27,7 +27,7 @@ There are a couple of different settings we can change for this script. The firs
 ### Global Jumping
 ![](https://github.com/torbenwb/MCConExp/blob/main/Pigeon_JumpGlobal.gif)
 
-## Step: Collecting the Coin
+## Step 3: Collecting the Coin
 
 Now that our pigeon can move and jump, the obvious next step is to be able to collect that shiny floating coin. Right now if our pigeon runs across the coin nothing happens. Instead we'd like the coin to burst into a satisfying collection of smaller coins to demonstrate that our player has done something cool and fun. 
 
