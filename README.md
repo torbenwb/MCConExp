@@ -6,9 +6,9 @@ The purpose of this project is to demonstrate some of the important elements of 
 
 The Park Scene is taken from GD1: Unit 3 - Unity Scripting API. The purpose of this project is to introduce students to the Unity Scripting API and the concepts of APIs in general. During this unit students are tasked with programming scripts to fulfill basic gameplay functions such as moving, jumping, and collecting coins.
 
-### Step 1: Moving the Pigeon
+### Step 1: Moving Pigeon
 
-Our first goal is to allow the player to move the pigeon using the left/right arrow keys. Luckily we already have a script to do just that. Drag the `InputMover` script from the **Project** section (bottom of the screen) onto the *Pigeon* GameObject. Now when we press play, we should be able to move the pigeon back and forth. Depending on how the physics of our pigeon are setup we might see some comical results. We can change how fast teh pigeon moves by adjusting the `Move Speed` variable on the `InputMover` script.
+Our first goal is to allow the player to move the pigeon using the left/right arrow keys. Luckily we already have a script to do just that. Drag the `InputMover` script from the **Project** section (bottom of the screen) onto the *Pigeon* GameObject. Now when we press play, we should be able to move the pigeon back and forth. Depending on how the physics of our pigeon are setup we might see some comical results. We can change how fast the pigeon moves by adjusting the `Move Speed` variable on the `InputMover` script.
 
 ### Step 2: Jumping Pigeon
 
