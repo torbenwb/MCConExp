@@ -17,4 +17,8 @@ Our first goal is to allow the player to move the pigeon using the left/right ar
 
 Now that our pigeon can move, he needs some way to get over this trash can in front of him, so we'll give him the ability to jump! Select the `InputJumper` script from the **Project** section and attach it to the pigeon. There are a couple of different settings we can change for this script. The first is the `Jump Strength` setting which controls how high the pigeon jumps. The other is the `Jump Coordinate Space` setting which can either be set to `Self` or `World`. When set to `Self` the pigeon will jump up along its **Local** Y-Axis. When set to `World` the pigeon will jump along the **Global** Y-Axis.
 
+### Local Jumping
 ![](https://github.com/torbenwb/MCConExp/blob/main/Pigeon_JumpScript.gif)
+
+### Global Jumping
+![](https://github.com/torbenwb/MCConExp/blob/main/Pigeon_JumpGlobal.gif)
