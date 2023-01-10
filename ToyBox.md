@@ -8,6 +8,8 @@ This scene is taken from GD1: Unit 1. This project introduces students to the Un
 
 To move the Scene View Camera hold down the right mouse button and move around using WASD. You can also rotate the camera using the mouse.
 
+![](https://github.com/torbenwb/MCConExp/blob/main/NavSceneView.gif)
+
 ## Moving, Rotating, Scaling Objects
 
 To select an object left click on it in the Scene View. Once you've selected an object you can change its position, rotation, and scale by using the Move, Rotate, and Scale tools respectively. The keyboard shortcuts below will allow you to easily switch between the different tools:
