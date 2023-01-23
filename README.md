@@ -45,6 +45,6 @@ This project runs using version 2021.3.16.f1 so any version after that should be
 
 Once you have Unity and Unity Hub installed, you're ready to clone this project to your local machine and open it in Unity. To do this, start by selecting Code from the repository and download all project files as a Zip file to whatever local location you prefer. Then extract the contents of that folder.
 
-![](https://github.com/torbenwb/MCConExp/blob/main/GitHub.png
+![](https://github.com/torbenwb/MCConExp/blob/main/GitHub.png)
 
 Once the project has been downloaded to your computer, it's time to make that project accessible via Unity Hub. To do this select **Add Project From Disk** and navigate to the main project folder. The project should then show up in a list of projects in Unity Hub where you can open it.
