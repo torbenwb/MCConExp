@@ -37,4 +37,6 @@ First, install Unity Hub [here](https://unity.com/download). Once Unity Hub is i
 
 ## Cloning the Project
 
-Once you have Unity and Unity Hub installed, you're ready to clone this project to your local machine and open it in Unity. To do this, start by selecting Clone and download all project files to whatever local location you prefer. Once the project has been downloaded to your computer, it's time to make that project accessible via Unity Hub. To do this select **Add Project From Disk** and navigate to the main project folder. The project should then show up in a list of projects in Unity Hub where you can open it.
+Once you have Unity and Unity Hub installed, you're ready to clone this project to your local machine and open it in Unity. To do this, start by selecting Code from the repository and download all project files as a Zip file to whatever local location you prefer. Then extract the contents of that folder.
+
+Once the project has been downloaded to your computer, it's time to make that project accessible via Unity Hub. To do this select **Add Project From Disk** and navigate to the main project folder. The project should then show up in a list of projects in Unity Hub where you can open it.
