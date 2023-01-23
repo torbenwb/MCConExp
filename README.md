@@ -48,3 +48,5 @@ Once you have Unity and Unity Hub installed, you're ready to clone this project 
 ![](https://github.com/torbenwb/MCConExp/blob/main/GitHub.png)
 
 Once the project has been downloaded to your computer, it's time to make that project accessible via Unity Hub. To do this select **Add Project From Disk** and navigate to the main project folder. The project should then show up in a list of projects in Unity Hub where you can open it.
+
+![](https://github.com/torbenwb/MCConExp/blob/main/AddProject.png)
