@@ -31,6 +31,8 @@ Once the project has been downloaded to your computer, it's time to make that pr
 
 To reset the project to its original state, go to GitHub Desktop, and from the Branch menu select **Discard All Change**. This will revert all changes made since the last time you updated the project.
 
+![](https://github.com/torbenwb/MCConExp/blob/main/Discard%20All%20Changes.png)
+
 ## Toy Box Scene 
 
 ![](https://github.com/torbenwb/MCConExp/blob/main/ToyBox_Demo.gif)
